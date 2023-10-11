@@ -1,0 +1,3 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://ifco:MCpP0VMuipWKux63D6g32s3z5iARi8eq@dpg-ckjb0p8mccbs738i5q20-a.frankfurt-postgres.render.com/league_si0r
